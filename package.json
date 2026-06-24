@@ -76,8 +76,8 @@
     "@types/minimatch": "^5.1.2",
     "@types/mock-fs": "^4.13.4",
     "@types/shell-quote": "^1.7.5",
-    "@vitest/coverage-v8": "^3.1.1",
-    "concurrently": "^9.2.0",
+    "@vitest/coverage-v8": "^4.1.9",
+    "concurrently": "^9.2.3",
     "cross-env": "^7.0.3",
     "esbuild": "^0.25.0",
     "eslint": "^9.24.0",
@@ -85,10 +85,10 @@
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "glob": "^10.4.5",
+    "glob": "^13.0.6",
     "globals": "^16.0.0",
     "json": "^11.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "memfs": "^4.17.2",
     "mnemonist": "^0.40.3",
     "mock-fs": "^5.5.0",
@@ -97,13 +97,13 @@
     "react-devtools-core": "^4.28.5",
     "tsx": "^4.20.3",
     "typescript-eslint": "^8.30.1",
-    "vitest": "^3.2.4",
+    "vitest": "^4.1.9",
     "yargs": "^17.7.2"
   },
   "dependencies": {
     "eventsource": "^4.0.0",
     "eventsource-parser": "^3.0.5",
-    "fast-uri": "^3.1.0",
+    "fast-uri": "^3.1.2",
     "pkce-challenge": "^5.0.0"
   }
 }
